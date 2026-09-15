@@ -149,7 +149,7 @@ button {
     border-radius: 8px;
     width: 300px;
     text-align: center;
-    margin-left: 550px;
+ margin: 20px auto;
 }
 
 /* Footer Styles */
